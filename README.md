@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kevin David Mendoza Vanegas</h1>
-<h3 align="center">A passionate researcher and master student in engineering with emphasis in electrical and electronics at the Universidad Tecnológica de Bolívar under the supervision of Prof. Andrés Marrugo and Prof. Lenny Romero working at OPI-Lab.</h3>
+<h1 align="center">Hi 👋, I'm Kevin Mendoza</h1>
+<h3 align="center">A passionate researcher with a master's degree in engineering with emphasis with emphasis in electrical and electronics at the Universidad Tecnológica de Bolívar under the supervision of Prof. Andrés Marrugo and Prof. Lenny Romero working at OPI-Lab.</h3>
 
-- 🔭 I’m currently working on **my Master's Thesis on the evaluation of ophthalmological images through the implementation of Deep Learning techniques. On the other hand, I am supporting a project to analyze microscopic images of the corneal endothelium.**
+- 🔭 I worked on my **master thesis** on the topic of **classification and assessment of corneal endothelium images through the implementation of supervised and semi-supervised deep learning techniques**.
 
-- 🌱 I’m currently learning **about Deep Learning and Computer Vision applied to ophthalmic image processing.**
+- 🌱 I'm currently learning **systems integration using deep learning and computer vision applied to multi-input processing**.
 
-- 🤝 I'am working and collaborating on **OPI-Lab (Optics and Image Processing Laboratory)**
+- 🤝 I'am working and collaborating on **OPI-Lab (Optics and Image Processing Laboratory) located at UTB**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/kevin10mv](https://github.com/kevin10mv)
 
-- 📫 How to reach me: **you can contact me through the following e-mails. kedameva@hotmail.com / mendozak@utb.edu.co**
+- 📫 How to reach me: **you can contact me through the following e-mails. mendozakd7@gmail.com / mendozak@utb.edu.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
